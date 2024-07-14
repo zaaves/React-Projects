@@ -1,3 +1,3 @@
-# React + Vite
+# Counter Application
 
-## A Simple Counter Application Using React+vite and Tailwind CSS
+## A Counter Application Using React+vite and Tailwind CSS
